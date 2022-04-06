@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+ul{
+    color: blue;
+
+}
+li{
+    display: inline;
+}
